@@ -1,0 +1,5 @@
+- I was struggling with branching and merging branches prior to this GPS session.
+- Branching and merging were clarified during this GPS session.
+- I wasn't sure how to add an image to a GitHub repository. I also asked questions regarding syntax.
+- Nothing really confuses me about Git, I just need to practice it in order to remember the syntax and commands.
+- It was good! No complaints. 
